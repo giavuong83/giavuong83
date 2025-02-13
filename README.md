@@ -1,4 +1,6 @@
-
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.vuong.506742/?locale=vi_VN) 
 
